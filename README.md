@@ -21,10 +21,10 @@ when i'm not coding, i'm probably baking a sweet treat, cooking a new chinese di
 
 - teaching assistant for [cmsc330](https://bakalian.cs.umd.edu/cmsc330)
   - spring 25, fall 25, spring 26
-- teaching assistant for cmsc132
-  - fall 25
 - course facilitator for cmsc389o
   - fall 25, spring 26
+- teaching assistant for cmsc132
+  - fall 24
 
 ## contact me!
 
