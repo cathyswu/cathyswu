@@ -30,7 +30,7 @@ when i'm not coding, i'm probably baking a sweet treat, trying a new video game,
    *taught functional programming in ocaml, finite state machines, lambda calculus, and rust*
 - **course facilitator** for cmsc389o
   - the coding interview: fall 25, spring 26  
-    *designed and led discussions on technical interview prep, data structure & algorithms, and conducted mock interviews
+    *designed and led discussions on technical interview prep, data structure & algorithms, and conducted mock interviews*
 - **teaching assistant** for cmsc132
   - object-oriented programming II: fall 24
 
