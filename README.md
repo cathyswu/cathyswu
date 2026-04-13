@@ -1,7 +1,6 @@
 # 🍵 hi, welcome! 欢迎光临 (˶˃ ᵕ ˂˶)
 
-## 🪷 cathy wu
-### [ she/her ]
+## 🪷 cathy wu [ she/her ]
 
 i'm studying computer science & math at the university of maryland.
 
