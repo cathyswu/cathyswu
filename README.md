@@ -15,7 +15,7 @@ when i'm not coding, i'm probably baking a sweet treat, trying a new video game,
   
 
 - **software development engineer intern** @ [general dynamics information technology](https://www.gdit.com/) ˙⋆✮ summer 2025  
-  *fine-tuned llms and built + deployed an internal AI coding agent using kubernetes to improve developer workflows*
+  *fine-tuned + deployed an internal AI coding agent using kubernetes to improve developer workflows*
 
 - **software engineer intern** @ [children’s national hospital](https://www.childrensnational.org/) ˙⋆✮ spring 2025  
   *developed a full-stack ml platform for fmri-based prediction with data pipelines and model experimentation*   
