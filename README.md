@@ -1,8 +1,8 @@
-# 🍵 hi, welcome! 欢迎 (˶˃ ᵕ ˂˶)
+# 🍵 hi, welcome!
 
 ## 🪷 cathy wu [ 吴诗琦 ]
 
-i'm currently studying computer science & math at the university of maryland.
+i'm a senior studying computer science & math at the university of maryland.
 
 i’m especially interested in infrastructure, distributed systems, and applying AI and machine learning to make a positive impact. i’m also extremely passionate about teaching and helping others.
 
@@ -10,9 +10,10 @@ when i'm not coding, i'm probably baking a sweet treat, trying a new video game,
 
 ## 🌸 experience
 
-- **incoming software engineer intern** @ [roblox](https://about.roblox.com/) ˙⋆✮ summer 2026   
+- **incoming software development engineer intern** @ [amazon](https://www.amazon.com/) ˙⋆✮ fall 2026   
+
+- **software engineer intern** @ [roblox](https://about.roblox.com/) ˙⋆✮ summer 2026   
   *working on infrastructure that scale across distributed edge environments*  
-  
 
 - **software development engineer intern** @ [general dynamics information technology](https://www.gdit.com/) ˙⋆✮ summer 2025  
   *fine-tuned + deployed an internal AI coding agent using kubernetes to improve developer workflows*
@@ -25,8 +26,8 @@ when i'm not coding, i'm probably baking a sweet treat, trying a new video game,
 
 ## 🌷 leadership
 
-- **teaching assistant** for [cmsc330](https://bakalian.cs.umd.edu/cmsc330)
-   - organization of programming languages: spring 25, fall 25, spring 26  
+- **teaching assistant** for [cmsc330](https://bakalian.cs.umd.edu/spring26/cmsc330/)
+   - organization of programming languages: [spring 25](https://bakalian.cs.umd.edu/spring25/330/), [fall 25](https://bakalian.cs.umd.edu/fall25/cmsc330/), [spring 26](https://bakalian.cs.umd.edu/spring26/cmsc330/) 
    *taught functional programming in ocaml, finite state machines, lambda calculus, and rust*
 - **course facilitator** for cmsc389o
   - the coding interview: fall 25, spring 26  
